@@ -1,0 +1,7 @@
+# ninja log v5
+5	486	6824517569899907	CMakeFiles/MediaServer.dir/Human.cpp.obj	bb816d841ada0c55
+0	489	6824517569909901	CMakeFiles/MediaServer.dir/main.cpp.obj	efecf42da3863880
+490	673	6824517571745306	MediaServer.exe	315ef2e555585d8b
+15	611	6824900805364636	CMakeFiles/MediaServer.dir/Human.cpp.obj	e5575a8d0e6e31fe
+4	612	6824900805364636	CMakeFiles/MediaServer.dir/main.cpp.obj	ba3e794c32c46432
+612	801	6824900807245088	MediaServer.exe	315ef2e555585d8b

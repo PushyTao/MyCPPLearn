@@ -1,0 +1,3 @@
+C:/Users/wuyan/Desktop/C++/Learn/Class/cmake-build-debug/CMakeFiles/MediaServer.dir
+C:/Users/wuyan/Desktop/C++/Learn/Class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wuyan/Desktop/C++/Learn/Class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+1	546	6824912655040173	CMakeFiles/Namespace.dir/main.cpp.obj	7a0e60d33d09d7ee
+12	550	6824912655070165	CMakeFiles/Namespace.dir/Human.cpp.obj	45b1c2440c87e893
+550	730	6824912656830819	Namespace.exe	6a3ed9b7573ff34a
+3	431	6824938354980801	CMakeFiles/Namespace.dir/main.cpp.obj	7a0e60d33d09d7ee
+15	433	6824938354990839	CMakeFiles/Namespace.dir/Human.cpp.obj	45b1c2440c87e893
+433	590	6824938356540823	Namespace.exe	6a3ed9b7573ff34a

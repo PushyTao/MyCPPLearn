@@ -1,0 +1,3 @@
+C:/Users/wuyan/Desktop/C++/Learn/Inherit/cmake-build-debug/CMakeFiles/Inherit.dir
+C:/Users/wuyan/Desktop/C++/Learn/Inherit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wuyan/Desktop/C++/Learn/Inherit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

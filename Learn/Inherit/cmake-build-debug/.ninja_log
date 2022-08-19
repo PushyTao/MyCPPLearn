@@ -1,0 +1,13 @@
+# ninja log v5
+13	500	6825029483353212	CMakeFiles/Inherit.dir/AirPlane.cpp.obj	a445c1d1a7366f51
+3	385	6825193998146294	CMakeFiles/Inherit.dir/main.cpp.obj	3c7030f0ac3b7fc4
+12	383	6825193998126164	CMakeFiles/Inherit.dir/derived.cpp.obj	16299313bbf0e6ed
+2	133	6825194199518882	Inherit.exe	dbba6cd45905389a
+1	234	6825223304149530	build.ninja	654c477a987e5efb
+4	549	6825189954757432	CMakeFiles/Inherit.dir/FightPlane.cpp.obj	22f342da857eb2b7
+30	591	6825227229096840	CMakeFiles/Inherit.dir/NewPlane.cpp.obj	328bff6d9f6664a5
+26	593	6825227229076843	CMakeFiles/Inherit.dir/TaoPlane.cpp.obj	a21a8f6a8e9c581c
+19	594	6825227229096840	CMakeFiles/Inherit.dir/FightPlane.cpp.obj	22f342da857eb2b7
+22	600	6825227229196841	CMakeFiles/Inherit.dir/AirPlane.cpp.obj	a445c1d1a7366f51
+4	606	6825227229266965	CMakeFiles/Inherit.dir/main.cpp.obj	3c7030f0ac3b7fc4
+606	820	6825227231347476	Inherit.exe	854cffd402553bad
