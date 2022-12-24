@@ -17,7 +17,7 @@ namespace pushytao {
     void Server::run() {
         while (true) {
             std::cout << "runing" << std::endl;
-            ::usleep(1000000);
+            ::usleep(1000000);// 微秒
         }
     }
 }

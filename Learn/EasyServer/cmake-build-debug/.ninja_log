@@ -1,6 +1,4 @@
 # ninja log v5
-7	533	6826181601895071	CMakeFiles/EasyServer.dir/server.cpp.obj	1df4b77a10043d27
-1	538	6826181601895071	CMakeFiles/EasyServer.dir/main.cpp.obj	f1546763f72a037a
-539	757	6826181604093009	EasyServer.exe	2a9022918fc802ee
-4	550	6826207119932813	CMakeFiles/EasyServer.dir/main.cpp.obj	f1546763f72a037a
-550	701	6826207121412903	EasyServer.exe	2a9022918fc802ee
+31	832	6830276099967195	CMakeFiles/EasyServer.dir/server.cpp.obj	1df4b77a10043d27
+3	831	6830276099967195	CMakeFiles/EasyServer.dir/main.cpp.obj	f1546763f72a037a
+832	1257	6830276104182165	EasyServer.exe	2a9022918fc802ee
